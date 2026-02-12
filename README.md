@@ -15,6 +15,9 @@ Silber, K.M.* and W.A. Boyle
 Several phylogenetic trees were used in the analyses. 
 
 
+"all_spp_quant_analyses.nex" includes 1,000 phylogenetic trees for all species included in the quantitaive analyses (meta-analyses and vote counting analyses).
+
+
 "all_spp.nex" includes 1,000 phylogenetic trees for all species included in the meta-analyses.
 
 
