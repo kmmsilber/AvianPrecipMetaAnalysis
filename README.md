@@ -12,7 +12,7 @@ Silber, K.M.* and W.A. Boyle
 "Meta-analyses_Jan2026.R" includes code for analyses and figures included in the manuscript. 
 
 ## Trees
-Several phylogenetic trees were used in the analyses. 
+Several phylogenetic trees were used in the analyses, reflecting different time scales in the response/reproductive variables. 
 
 
 "all_spp_quant_analyses.nex" includes 1,000 phylogenetic trees for all species included in the quantitaive analyses (meta-analyses and vote counting analyses).
