@@ -6,7 +6,7 @@ Silber, K.M.* and W.A. Boyle
 *Corresponding author. For any questions about the data or code, please contact Katy Silber (kmmsilber@gmail.com).
 
 ## Data
-"Meta-analysis_Dataset.xlsx" includes studies compiled from the literature search described in the manuscript. Metrics and search methods are defined in the Methods and Materials section. Data were obtained from the original study or Birds of the World species accounts. Cells with "NR" indicate metrics were Not Reported in the orginal study. Species accounts referenced for each species are outlined in the Supplemental Materials.
+"Meta-analysis_Dataset.xlsx" includes studies compiled from the literature search described in the manuscript. Metrics and search methods are defined in the Materials and Methods section. Data were obtained from the original study or Birds of the World species accounts. Cells with "NR" indicate metrics were Not Reported in the orginal study. Species accounts referenced for each species are outlined in the Supplemental Materials.
 
 ## Code
 "Meta-analyses_Jan2026.R" includes code for analyses and figures included in the manuscript. 
